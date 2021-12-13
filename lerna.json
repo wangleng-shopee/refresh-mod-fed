@@ -1,0 +1,4 @@
+{
+  "packages": ["host", "remote1"],
+  "version": "0.0.0"
+}
